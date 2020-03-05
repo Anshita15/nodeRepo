@@ -20,7 +20,7 @@
       140 
     ],
     "member-access": false,
-    "member-ordering": [
+    "member-ordering": [ 
       true,
       {
         "order": [
