@@ -12,15 +12,15 @@
     "import-blacklist": [
       true,
       "rxjs/Rx"
-    ],
-    "interface-name": false,
+    ], 
+    "interface-name": false, 
     "max-classes-per-file": false,
-    "max-line-length": [
+    "max-line-length": [ 
       true,
-      140
+      140 
     ],
     "member-access": false,
-    "member-ordering": [
+    "member-ordering": [ 
       true,
       {
         "order": [
